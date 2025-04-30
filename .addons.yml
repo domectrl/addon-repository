@@ -4,4 +4,4 @@ addons:
   owserver:
     repository: domectrl/hassio-owserver
     target: .
-    image: ghcr.io/lrybak/owserver/{arch}
+    image: ghcr.io/domectrl/owserver/{arch}
