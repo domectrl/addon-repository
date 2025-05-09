@@ -52,7 +52,6 @@ Specify the device.
 This is mandatory option only for following **device_type**:
 - serial
 - passive
-- i2c
 - pbm
 
 #### Sub-option: `ha7net_server`
