@@ -31,7 +31,7 @@ onewire server to read 1-Wire devices+
 
 
 [addon-owserver]: https://github.com/domectrl/hassio-owserver/tree/v0.7.2
-[addon-doc-owserver]: https://github.com/domectrlhassio-owserver/blob/v0.7.2/README.md
+[addon-doc-owserver]: https://github.com/domectrl/hassio-owserver/blob/v0.7.2/README.md
 [owserver-issue]: https://github.com/domectrl/hassio-owserver/issues
 [owserver-version-shield]: https://img.shields.io/badge/version-v0.7.2-blue.svg
 [owserver-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
