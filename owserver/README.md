@@ -48,7 +48,7 @@ Please check the **[full documentation page](https://github.com/domectrl/hassio-
 ![Integrations page](https://github.com/domectrl/hassio-owserver/raw/master/images/screenshot_integrations.jpg)
 ![owhttpd](https://github.com/domectrl/hassio-owserver/raw/master/images/screenshot_owhttpd.jpg)
 
-[version]: https://img.shields.io/badge/version-v0.7.3-blue.svg
+[version]: https://img.shields.io/badge/version-v0.7.4-blue.svg
 [releases]: https://github.com/domectrl/hassio-owserver/releases
 [addons-repository]: https://github.com/domectrl/addon-repository
 [addons-repository-beta]: https://github.com/domectrl/addon-repository-beta
